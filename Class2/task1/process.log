@@ -1,0 +1,5 @@
+  PID TTY           TIME CMD
+31513 ttys005    0:01.22 -/opt/homebrew/bin/fish
+32283 ttys007    0:01.45 /opt/homebrew/bin/fish -l --init-command source "/Applications/Antigravity IDE.app/Contents/Resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration.fish"
+35008 ttys007    0:00.01 sh task.sh
+32308 ttys010    0:00.10 /opt/homebrew/bin/fish -l --init-command source "/Applications/Antigravity IDE.app/Contents/Resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration.fish"
