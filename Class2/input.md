@@ -1,0 +1,1 @@
+!["alt text"](./input_ka_output.png)
