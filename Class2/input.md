@@ -1,1 +1,1 @@
-!["alt text"](./input_ka_output.png)
+!["alt text"](./inputKaOutput.png)
