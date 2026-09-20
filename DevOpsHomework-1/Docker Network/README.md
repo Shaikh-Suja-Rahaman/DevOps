@@ -1,5 +1,10 @@
 # Docker Networking & Volumes Homework
 
+**Name:** Shaikh Suja Rahaman
+**Enrollment Number:** 24bcs10038
+
+---
+
 This repository documents my practice with Docker networks, bind mounts, and overlay networks.
 
 ---

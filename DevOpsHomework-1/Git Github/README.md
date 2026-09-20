@@ -1,5 +1,10 @@
 # Git and GitHub Homework
 
+**Name:** Shaikh Suja Rahaman
+**Enrollment Number:** 24bcs10038
+
+---
+
 This repository contains my practice exercises for mastering Git commits and cherry-picking. 
 
 ## Task 1: `git commit -m` vs `git commit -a -m`

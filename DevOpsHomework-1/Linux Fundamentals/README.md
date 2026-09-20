@@ -1,5 +1,10 @@
 # Linux Fundamentals Guide
 
+**Name:** Shaikh Suja Rahaman
+**Enrollment Number:** 24bcs10038
+
+---
+
 Welcome to the Linux Fundamentals guide! This document covers a few essential concepts and commands that every DevOps engineer and Linux user should know. We will look at file links, user management, and viewing system logs.
 
 ## 1. Soft Links vs Hard Links

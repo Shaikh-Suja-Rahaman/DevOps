@@ -1,5 +1,10 @@
 # Network Fundamentals (macOS Edition)
 
+**Name:** Shaikh Suja Rahaman
+**Enrollment Number:** 24bcs10038
+
+---
+
 This guide covers ten essential networking commands to diagnose, test, and monitor network connectivity, specifically tailored for a macOS environment.
 
 ## 1. `ping`

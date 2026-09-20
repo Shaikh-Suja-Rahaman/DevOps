@@ -1,5 +1,10 @@
 # System Information Shell Script
 
+**Name:** Shaikh Suja Rahaman
+**Enrollment Number:** 24bcs10038
+
+---
+
 Welcome to my Shell Scripting assignment! For this task, I built a bash script (`system_info.sh`) that acts as a quick system diagnostic tool. It gathers basic info about the machine, checks disk usage, and saves a list of currently running processes to a file that the user specifies.
 
 ## Commands Used
